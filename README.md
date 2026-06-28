@@ -1,5 +1,7 @@
 # macQJS: QuickJS for Classic Mac OS 9
 
+<img src="macqjs-banner.png" />
+
 **macQJS** is a natively ported version of the [QuickJS JavaScript Engine](https://bellard.org/quickjs/) for Classic Mac OS 9 and PowerPC, specifically designed to be compiled with Metrowerks CodeWarrior 8.
 
 ## Overview
